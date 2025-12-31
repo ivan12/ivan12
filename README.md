@@ -6,4 +6,4 @@
 
 
 ## Interests
-Front-end (React & Angular), Clean Code
+Front-end & Clean Code
