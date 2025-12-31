@@ -6,4 +6,4 @@
 
 
 ## Interests
-Front-end & Clean Code
+Front-end (Reactjs, Components, styledComponents, css, ts) & Clean Code
