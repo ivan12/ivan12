@@ -6,4 +6,13 @@
 
 
 ## Interests
-Front-end (React, Components, OOP, Functional Programming, TypeScript, CSS) & Clean Code (readable and maintainable)
+- Front-end (React, Components, OOP, Functional Programming, TypeScript, CSS) 
+- Clean Code (readable and easy maintenance over time)
+- Easy-to-understand codebases for any developer
+
+## How I Work
+- Attention to code quality and best practices
+- Team collaboration and cross-functional communication
+- Strong teamwork in agile and collaborative environments
+- Peer code reviews
+- Problem-solving focused on user value and business outcomes
