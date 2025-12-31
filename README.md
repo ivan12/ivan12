@@ -6,4 +6,4 @@
 
 
 ## Interests
-Front-end (Reactjs, Components, styledComponents, css, ts) & Clean Code
+Front-end (React, Components, OOP, Functional Programming, TypeScript, CSS) & Clean Code
