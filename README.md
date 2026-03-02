@@ -19,9 +19,18 @@
 - Problem-solving focused on user value and business outcomes
 - AI as a co-pilot
 
+## Git Status <img src="https://komarev.com/ghpvc/?username=ivan12&style=flat-square&color=orange" height="50" />
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=ivan12&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
 ## ☕ Buying me a coffee
 
 If you enjoy this project and would like to support its development, consider buying me a coffee!  
 Every coffee helps turn ideas into code, games, and new features. 💛
 
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/amorimivan1)
+
+
+
