@@ -19,7 +19,7 @@
 - Problem-solving focused on user value and business outcomes
 - AI as a co-pilot
 
-## Git Status <img src="https://komarev.com/ghpvc/?username=ivan12&style=flat-square&color=orange" height="50" />
+## Github <img src="https://komarev.com/ghpvc/?username=ivan12&style=flat-square&color=orange" height="50" />
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=ivan12&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
