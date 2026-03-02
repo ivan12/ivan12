@@ -1,38 +1,49 @@
-## Hello 👋, Known languagues & tools
+# Hello 👋 
+<p align="left">
+<a href="https://linkedin.com/in/SEU_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ivan%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="https://ivanamorim.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ivanamorim.com.br-115511?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
+<img src="https://img.shields.io/badge/Available-worldwide-D80621?style=for-the-badge&logo=worldwide&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/AI-Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-| Front |  Back  | Tools |
-| ------------------- | ------------------- | ------------------- |
-|  <img src="https://skillicons.dev/icons?i=react,angular,ts,styledcomponents,js,html,css,jquery,sass,tailwind&perline=4" /> |  <img src="https://skillicons.dev/icons?i=nodejs,go&perline=2" /> | <img src="https://skillicons.dev/icons?i=ai,git,discord,vscode,npm,notion,postman&perline=4" />
+## Focused on
 
+**AI-powered automation, SaaS platforms, and scalable web applications**.  
 
-## Interests
-- Front-end (React, Components, OOP, Functional Programming, TypeScript, CSS) 
-- Clean Code (readable and easy maintenance over time)
-- Easy-to-understand codebases for any developer
-- AI-assisted development
+I build production-ready systems using modern stacks, combining clean architecture, business logic clarity, and AI as a development co-pilot.
+
+- 🤖 AI Agents & Automation (n8n, LLMs, WhatsApp, Voice)
+- ⚙️ SaaS & Web Platforms (React, Angular, Node.js)
+- 🎮 Game Development background
+- 🧠 Clean Code & long-term maintainability
+- 🌍 Available worldwide (Working remotely)
+
+## 🛠 Known Languages & Tools
+
+| Frontend | Backend | Tools |
+|----------|----------|--------|
+| <img src="https://skillicons.dev/icons?i=react,angular,ts,styledcomponents,js,html,css,jquery,sass,tailwind&perline=4" /> | <img src="https://skillicons.dev/icons?i=nodejs,go&perline=2" /> | <img src="https://skillicons.dev/icons?i=ai,git,discord,vscode,npm,notion,postman&perline=4" /> |
 
 ## How I Work
-- Attention to code quality and best practices
-- Team collaboration and cross-functional communication
-- Strong teamwork in agile and collaborative environments
-- Peer code reviews
-- Problem-solving focused on user value and business outcomes
-- AI as a co-pilot
 
-## Github <a href="https://github.com/ivan12" target="_blank" rel="noopener noreferrer"> <img src="https://komarev.com/ghpvc/?username=ivan12&style=flat-square&color=0A66C2" height="42px" width="auto" /></a>
+- Clean, scalable architecture  
+- Code readability over cleverness  
+- Agile team collaboration  
+- AI as a productivity multiplier  
+- Product & business outcome oriented  
 
-<div align="left">
-  <a href="https://github.com/ivan12?tab=overview" target="_blank" rel="noopener noreferrer">
-    <img src="https://streak-stats.demolab.com?user=ivan12&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+## GitHub <a href="https://github.com/ivan12"> <img src="https://komarev.com/ghpvc/?username=ivan12&style=for-the-badge&color=0A66C2" height="23px" /> </a>
+
+<p align="left">
+  <a href="https://github.com/ivan12?tab=overview">
+    <img height="150" src="https://streak-stats.demolab.com?user=ivan12&mode=weekly&theme=highcontrast&hide_border=true" />
   </a>
-</div>
+</p>
 
-## ☕ Buying me a coffee
+## ☕ Support My Work
 
-If you enjoy this project and would like to support its development, consider buying me a coffee!  
-Every coffee helps turn ideas into code, games, and new features. 💛
+If you enjoy my projects and want to support future ideas:
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/amorimivan1) 
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/amorimivan1)
 
-
-
+Every coffee helps turn ideas into code, games, and new features 💛
