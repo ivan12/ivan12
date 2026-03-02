@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/AI-Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-## Focused on
+## Specializing in
 
 **AI-powered automation, SaaS platforms, and scalable web applications**.  
 
