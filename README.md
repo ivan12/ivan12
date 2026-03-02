@@ -42,8 +42,14 @@ I build production-ready systems with modern stacks, clean architecture, and AI 
 
 ## ☕ Support My Work
 
-If you enjoy my projects and want to support future ideas:
+Thanks for visiting my GitHub profile - I truly appreciate your time.  
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/amorimivan1)
+If you enjoy my projects and would like to support future ideas, you can:
 
-Every coffee helps turn ideas into code, games, and new features 💛
+<p align="left">
+  <a href="https://buymeacoffee.com/amorimivan1">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
+  </a>
+</p>
+
+Every coffee helps transform ideas into code, products, and new experiences. 💛
