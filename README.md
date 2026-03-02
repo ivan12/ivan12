@@ -10,7 +10,7 @@
 
 **AI-powered automation, SaaS platforms, and scalable web applications**.  
 
-I build production-ready systems using modern stacks, combining clean architecture, business logic clarity, and AI as a development co-pilot.
+I build production-ready systems with modern stacks, clean architecture, and AI as a strategic development co-pilot.
 
 - AI Agents & Automation (n8n, LLMs, WhatsApp, Voice)
 - SaaS & Web Platforms (React, Angular, Node.js)
