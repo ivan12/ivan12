@@ -1,7 +1,7 @@
 # Hello 👋 
 <p align="left">
 <a href="https://linkedin.com/in/SEU_LINK" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ivan%20Amorim-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="https://ivanamorim.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-ivanamorim-115511?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
+<a href="https://ivanamorim.com.br" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Web-115511?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Available-worldwide-D80621?style=for-the-badge&logo=worldwide&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/AI-Automation-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
