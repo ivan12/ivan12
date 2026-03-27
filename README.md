@@ -45,7 +45,6 @@ I build production-ready systems with modern stacks, clean architecture, and AI 
 Thanks for visiting my GitHub profile - I truly appreciate your time.  
 
 If you enjoy my projects and would like to support future ideas, you can:
-
 <p align="left">
   <a href="https://buymeacoffee.com/amorimivan1">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" />
@@ -54,5 +53,7 @@ If you enjoy my projects and would like to support future ideas, you can:
 
 Every coffee helps transform ideas into code, products, and new experiences. 💛
 <p align="left">
-  <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" />
+  <a href="https://buymeacoffee.com/amorimivan1">
+    <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" alt="GitHub Snake" style="max-width: 100%;">
+  </a>
 </p>
