@@ -53,3 +53,6 @@ If you enjoy my projects and would like to support future ideas, you can:
 </p>
 
 Every coffee helps transform ideas into code, products, and new experiences. 💛
+<p align="left">
+  <img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg" />
+</p>
